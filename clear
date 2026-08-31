@@ -1,0 +1,83 @@
+[33mcommit 493c0cf632d16ad39e8ec0a10d96d399f09284c6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mstaging[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: KawsarHamid99 <kawsarhamid7225@gmail.com>
+Date:   Sun Aug 30 23:59:49 2026 -0400
+
+    manually updated
+
+[33mcommit 723985405865bc6be90dff7397420869bb2e546b[m
+Merge: 5a5a3ba 0cb6baa
+Author: KawsarHamid99 <kawsarhamid7225@gmail.com>
+Date:   Sun Aug 30 23:55:19 2026 -0400
+
+    fixed the issues
+
+[33mcommit 5a5a3ba1f874d9205740eb57c40c31fdc8e026cc[m
+Author: KawsarHamid99 <kawsarhamid7225@gmail.com>
+Date:   Sun Aug 30 23:54:15 2026 -0400
+
+    fixed the issues
+
+[33mcommit d454c769c5bc6bac3adfddd91a8515f6a9a3f0d1[m
+Author: KawsarHamid99 <kawsarhamid7225@gmail.com>
+Date:   Sun Aug 30 23:47:17 2026 -0400
+
+    added 4+4
+
+[33mcommit 0cb6baa6f33a36249ac8035bac2abf340706152e[m
+Author: KawsarHamid99 <kawsarhamid7225@gmail.com>
+Date:   Sun Aug 30 23:44:15 2026 -0400
+
+    stages branch is up to date
+
+[33mcommit 6c5956f6335d3b95771d0cd5830b42740d6d602c[m
+Author: KawsarHamid99 <kawsarhamid7225@gmail.com>
+Date:   Sun Aug 30 23:32:52 2026 -0400
+
+    del branch is up to date
+
+[33mcommit d05d8e0d4f63b90b996f01e49fe207f565ae2de1[m
+Merge: 9b71b8d e6bc7d0
+Author: KawsarHamid99 <kawsarhamid7225@gmail.com>
+Date:   Sun Aug 30 23:31:09 2026 -0400
+
+    Merging main into development
+
+[33mcommit e6bc7d08556ae5263083af1ac7279008c6d42752[m
+Author: KawsarHamid99 <kawsarhamid7225@gmail.com>
+Date:   Sun Aug 30 23:28:15 2026 -0400
+
+    main updated
+
+[33mcommit 9b71b8d79427af871689232fb0f4db0a1508010c[m
+Author: KawsarHamid99 <kawsarhamid7225@gmail.com>
+Date:   Sun Aug 30 23:10:05 2026 -0400
+
+    commit from branch 2
+
+[33mcommit ad634692b241c6247ce0294d4a8d16c6d11efda6[m
+Author: KawsarHamid99 <kawsarhamid7225@gmail.com>
+Date:   Sun Aug 30 23:09:18 2026 -0400
+
+    commit from branch
+
+[33mcommit b45b283c7b795f9cc3258e77ded9fb96bd7e1284[m
+Author: KawsarHamid99 <kawsarhamid7225@gmail.com>
+Date:   Sun Aug 30 22:53:49 2026 -0400
+
+    final commit
+
+[33mcommit f80ddf9f6cf1de6b43d605a67d0b34031520a70b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kawsar Hamid <59446095+KawsarHamid99@users.noreply.github.com>
+Date:   Sun Aug 30 21:06:23 2026 -0400
+
+    Create two.txt
+    
+    2nd commit
+
+[33mcommit f6119d464ccb6b336b591ab7231a64d1bb4d2093[m
+Author: Kawsar Hamid <59446095+KawsarHamid99@users.noreply.github.com>
+Date:   Sun Aug 30 21:05:41 2026 -0400
+
+    Create one.txt
+    
+    first change
