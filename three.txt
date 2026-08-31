@@ -1,4 +1,2 @@
 three
 my name is khan
-
-hello three
